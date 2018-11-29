@@ -1,0 +1,22 @@
+<DOCTYPE html>
+<html>
+
+<head>
+	<title>The Fate of The Furious (2017)</title>
+</head>
+
+<body>
+	<div>
+		<h1>The The Fate of The Furious (2017)</h1>
+			<p>With Dom and Letty married, Brian and Mia retired and the rest of the 
+<br>crew exonerated, the globe-trotting team has found some semblance of a 
+<br>normal life. They soon face an unexpected challenge when a mysterious 
+<br>woman named Cipher forces Dom to betray them all. Now, they must 
+<br>unite to bring home the man who made them a family and stop Cipher 
+<br>from unleashing chaos.</p>
+	</div>
+		<video src="https://www.youtube.com/watch?v=5XBmsl7wbIQ" width="1280" height="720" controls>
+			Video not supported
+		</video>
+	</div>
+</body>
