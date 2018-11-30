@@ -1,0 +1,33 @@
+body {
+    background-color: gray;
+    background-repeat: no-repeat;
+   	background-position: center;
+	background-image: url("https://images-2.wuaki.tv/system/shots/44736/original/fast-furious-7-1446569333.jpeg");
+   	font-family: Arial;
+}
+#text{
+    position: absolute;
+    top: 100px;
+    color: white;  
+	background-color: rgba(128,128,128,0.5);
+	text-align: center;
+    width: 700px;
+    left: 150px;
+}
+#video {
+	width: 500px;
+	top: 400px;
+}
+p {
+	font-family: Arial;
+}
+h1 {
+	font-family: Arial; 
+	text-transform: uppercase;
+}
+.link {
+    color: white;
+}
+.link:hover {
+    color: blue;
+}
