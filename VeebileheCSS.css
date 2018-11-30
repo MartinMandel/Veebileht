@@ -1,0 +1,47 @@
+body {
+    background-repeat: no-repeat;
+    background-position: center;
+    background-image: url("https://images-2.wuaki.tv/system/shots/44736/original/fast-furious-7-1446569333.jpeg");
+    font-family: Arial;
+}
+#Introduction {
+    position: absolute;
+    top: 300px;
+    color:white;  
+    background-color: rgba(128, 128, 128, 0.75);
+    text-align: center;
+    width: 1000px;
+    left: 250px;
+}
+#Text {
+    position: absolute;
+    top: 300px;
+    color: white;  
+    text-align: center;
+    width: 1000px;
+    left: 250px;
+}
+#MovieList {
+    position: absolute;
+    width: 300px;
+    top: 600px;
+    background-color: rgba(128, 128, 128, 0.75);
+    color: white;
+}
+#MainCharacters {
+    position: absolute;
+    width: 200px;
+    top: 600px;
+    left: 320px;
+    background-color:rgba(128, 128, 128, 0.75);
+    color: white;
+}
+.link {
+    color: white;
+}
+.link:hover {
+    color: blue;
+}
+#Auto {
+    color: white;
+}
